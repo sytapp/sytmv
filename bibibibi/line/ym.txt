@@ -1,0 +1,49 @@
+[
+	{
+		"url": "https://d3648ypxf2zgex.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d2ie5ef9gvfp4a.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d1cuc7o7ybv2vv.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d3icnchu6mnaji.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://drfu1nqg5qv2w.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d24evfc7joe0vv.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d2rd6x07fqhci5.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d2fj79d4hmueas.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://dytbseyu77fjp.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d1gzrb9gwo33ny.cloudfront.net",
+		"only": 0
+	}
+	,
+	{
+		"url": "https://4yt.xyz",
+		"only": 0
+	}
+	
+	
+]
