@@ -1,14 +1,14 @@
 [
 	{
-		"url": "https://d3648ypxf2zgex.cloudfront.net",
+		"url": "https://4yt.bio",
 		"only": 0
 	},
 	{
-		"url": "https://d2ie5ef9gvfp4a.cloudfront.net",
+		"url": "https://4yt.cam",
 		"only": 0
 	},
 	{
-		"url": "https://d1cuc7o7ybv2vv.cloudfront.net",
+		"url": "https://4yt.dog",
 		"only": 0
 	},
 	{
