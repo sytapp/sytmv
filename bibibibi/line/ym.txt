@@ -1,4 +1,17 @@
 [
+	
+	{
+		"url": "https://d2mctd983dcjx2.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://d19qfnh1fuc1e2.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://dj83aku2jjths.cloudfront.net",
+		"only": 0
+	},
 	{
 		"url": "https://4yt.bio",
 		"only": 0
@@ -11,35 +24,6 @@
 		"url": "https://4yt.dog",
 		"only": 0
 	},
-	{
-		"url": "https://d3icnchu6mnaji.cloudfront.net",
-		"only": 0
-	},
-	{
-		"url": "https://drfu1nqg5qv2w.cloudfront.net",
-		"only": 0
-	},
-	{
-		"url": "https://d24evfc7joe0vv.cloudfront.net",
-		"only": 0
-	},
-	{
-		"url": "https://d2rd6x07fqhci5.cloudfront.net",
-		"only": 0
-	},
-	{
-		"url": "https://d2fj79d4hmueas.cloudfront.net",
-		"only": 0
-	},
-	{
-		"url": "https://dytbseyu77fjp.cloudfront.net",
-		"only": 0
-	},
-	{
-		"url": "https://d1gzrb9gwo33ny.cloudfront.net",
-		"only": 0
-	}
-	,
 	{
 		"url": "https://4yt.xyz",
 		"only": 0
