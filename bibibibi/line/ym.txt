@@ -1,31 +1,31 @@
 [
 	
 	{
-		"url": "https://d2mctd983dcjx2.cloudfront.net",
+		"url": "http://d2mctd983dcjx2.cloudfront.net",
 		"only": 0
 	},
 	{
-		"url": "https://d19qfnh1fuc1e2.cloudfront.net",
+		"url": "http://d19qfnh1fuc1e2.cloudfront.net",
 		"only": 0
 	},
 	{
-		"url": "https://dj83aku2jjths.cloudfront.net",
+		"url": "http://dj83aku2jjths.cloudfront.net",
 		"only": 0
 	},
 	{
-		"url": "https://4yt.bio",
+		"url": "http://4yt.bio",
 		"only": 0
 	},
 	{
-		"url": "https://4yt.cam",
+		"url": "http://4yt.cam",
 		"only": 0
 	},
 	{
-		"url": "https://4yt.dog",
+		"url": "http://4yt.dog",
 		"only": 0
 	},
 	{
-		"url": "https://4yt.xyz",
+		"url": "http://4yt.xyz",
 		"only": 0
 	}
 	
