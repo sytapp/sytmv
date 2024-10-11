@@ -1,10 +1,14 @@
 [
 	{
-		"url": "https://drso1hd08fry4.cloudfront.net",
+		"url": "https://humenhuo.top",
 		"only": 0
 	},
 	{
 		"url": "https://dgfbizhvoy3e3.cloudfront.net",
+		"only": 0
+	},
+	{
+		"url": "https://drso1hd08fry4.cloudfront.net",
 		"only": 0
 	},
 	{
@@ -42,11 +46,6 @@
 	{
 		"url": "https://4yt.xyz",
 		"only": 0
-	},
-	{
-		"url": "https://humenhuo.top",
-		"only": 0
 	}
-	
 	
 ]
